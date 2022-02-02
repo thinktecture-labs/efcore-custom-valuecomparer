@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueComparerBenchmarking", "ValueComparerBenchmarking\ValueComparerBenchmarking.csproj", "{8D1B2F16-642A-4550-90DD-511113C9F38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1B2F16-642A-4550-90DD-511113C9F38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1B2F16-642A-4550-90DD-511113C9F38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1B2F16-642A-4550-90DD-511113C9F38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1B2F16-642A-4550-90DD-511113C9F38F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
